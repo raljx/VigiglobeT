@@ -1,5 +1,4 @@
 # testvg
-## Private Test
 ## Contact information ##
 
 Stephane RALJEVIC
